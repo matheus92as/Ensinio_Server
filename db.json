@@ -1,9 +1,240 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "header":[
+    {
+      "id": 1,
+      "button": {
+        "pt": "Soluções",
+        "en": "Solutions",
+        "es": "Soluciones"
+      }
+    },
+    {
+      "id": 2,
+      "button": {
+        "pt": "Preços",
+        "en": "Prices",
+        "es": "Precios"
+      }
+    },
+    {
+      "id": 3,
+      "button": {
+        "pt": "Academy",
+        "en": "Academy",
+        "es": "Academy"
+      }
+    },
+    {
+      "id": 4,
+      "button": {
+        "pt": "Blog",
+        "en": "Blog",
+        "es": "Blog"
+      }
+    },
+    {
+      "id": 5,
+      "button": {
+        "pt": "Contato",
+        "en": "Contact",
+        "es": "Contacto"
+      }
+    },
+    {
+      "id": 6,
+      "button": {
+        "pt": "Entrar",
+        "en": "Log in",
+        "es": "Entrar"
+      }
+    },
+    {
+      "id": 7,
+      "button": {
+        "pt": "Começar agora",
+        "en": "Start now",
+        "es": "Empezar ahora"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "section1":[
+    {
+      "id": 1,
+      "text": {
+        "pt": "PLATAFORMA ALL IN ONE",
+        "en": "ALL IN ONE PLATFORM",
+        "es": "TODO EN UNA PLATAFORMA"
+      } 
+    },
+    {
+      "id": 2,
+      "text": {
+        "pt": "Sua escola online poderosa e lucrativa",
+        "en": "Your powerful and profitable online school",
+        "es": "Tu escuela online potente y rentable"
+      } 
+    },
+    {
+      "id": 3,
+      "text": {
+        "pt": "Tenha sua própria escola online 100% white label com rede social, gamificação, clube de assinaturas, ecommerce e sistema EAD completo.",
+        "en": "Have your own 100% white label online school with social network, gamification, subscription club, ecommerce and complete distance learning system.",
+        "es": "Ten tu propia escuela online 100% marca blanca con red social, gamificación, club de suscripción, ecommerce y completo sistema de educación a distancia."
+      } 
+    },
+    {
+      "id": 4,
+      "text": {
+        "pt": "Começar agora",
+        "en": "Start now",
+        "es": "Empezar ahora"
+      } 
+    },
+    {
+      "id": 5,
+      "text": {
+        "pt": "Ver vídeo",
+        "en": "Watch video",
+        "es": "Ver video"
+      } 
+    }    
   ],
-  "profile": { "name": "typicode" }
+  "section2":[
+    {
+      "id": 1,
+      "title": {
+        "pt": "PENSAMOS EM CADA DETALHE",
+        "en": "WE THINK ABOUT EVERY DETAIL",
+        "es": "PENSAMOS EN CADA DETALLE"
+      },
+      "description":{
+        "pt": "Queremos que o aluno se sinta confortável enquanto aprende",
+        "en": "We want the student to feel comfortable while learning",
+        "es": "Queremos que el alumno se sienta cómodo mientras aprende"
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Conheça alguns dos nossos recursos ⚡️",
+        "en": "Discover some of our resources ⚡️",
+        "es": "Descubre algunos de nuestros recursos ⚡️"
+      },
+      "description":{
+        "pt": "",
+        "en": "",
+        "es": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Veja todos os outros recursos disponíveis para te ajudar",
+        "en": "See all the other resources available to help you",
+        "es": "Vea todos los demás recursos disponibles para ayudarle"
+      },
+      "description":{
+        "pt": "",
+        "en": "",
+        "es": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Ver mais",
+        "en": "View more",
+        "es": "Ver más"
+      },
+      "description":{
+        "pt": "",
+        "en": "",
+        "es": ""
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "Trilhas de etapas",
+        "en": "Step trails",
+        "es": "Caminos de pasos"
+      },
+      "description": {
+        "pt": "Crie planos de estudos especificando aulas e/ou cursos e definindo a ordem que seus alunos devem estudar.",
+        "en": "Create study plans by specifying classes or courses and defining the order in which your students should study.",
+        "es": "Crea planes de estudio especificando clases o cursos y definiendo el orden en el que tus alumnos deben estudiar."
+
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Playlists",
+        "en": "Playlists",
+        "es": "Playlists"
+      },
+      "description": {
+        "pt": "Transforme uma coleção em uma playlist para poder ver vídeos e áudios em sequência e offline.",
+        "en": "Turn a collection into a playlist so you can watch videos and audios in sequence and offline.",
+        "es": "Convierta una colección en una lista de reproducción para que pueda ver videos y audios en secuencia y sin conexión."
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Coleções",
+        "en": "Collections",
+        "es": "Colecciones"
+      },
+      "description": {
+        "pt": "Crie coleções, adicione conteúdos, reorganize ítens e deixe tudo do seu jeito para melhorar a experiência.",
+        "en": "Create collections, add content, rearrange items, and have it your way to enhance the experience.",
+        "es": "Cree colecciones, agregue contenido, reorganice elementos y déjelo a su manera para mejorar la experiencia."
+      }
+    }
+  ],
+  "solutions":[
+    {
+      "id": 1,
+      "text": {
+        "pt": "SOLUÇÕES PRINCIPAIS",
+        "en": "CORE SOLUTIONS",
+        "es": "SOLUCIONES CLAVE"
+      } 
+    },
+    {
+      "id": 2,
+      "text": {
+        "pt": "Crie uma Escola Online",
+        "en": "Create an Online School",
+        "es": "Crear una escuela On-line"
+      } 
+    },
+    {
+      "id": 3,
+      "text": {
+        "pt": "Comunidade e rede social",
+        "en": "Community and social network",
+        "es": "Comunidad y red social."
+      } 
+    },
+    {
+      "id": 4,
+      "text": {
+        "pt": "Gamificação",
+        "en": "Gamification",
+        "es": "Gamificación"
+      } 
+    },
+    {
+      "id": 5,
+      "text": {
+        "pt": "Aplicativo mobile",
+        "en": "Mobile application",
+        "es": "Aplicación movil"
+      } 
+    }    
+  ]
 }
